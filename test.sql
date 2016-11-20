@@ -2,4 +2,4 @@ select *from emp;
 select *from dept;
 select c from emp;
 creating two new branch;
-select ename from emp;
+select dname from dept;
